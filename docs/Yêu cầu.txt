@@ -1,0 +1,15 @@
+﻿
+- Báo cáo hàng tuần qua email -> Ðiểm quá trình
+
+- Ðề tài:
+
+- Tìm hiểu về Git (tortoise Git, master, branch,...) -> Viết báo cáo
+- Xây dựng form nhập liệu trên MS Office, kết nối với CSDL Sinh viên,...
+
+Ví dụ:
++ Lấy dữ liệu từ file excel, đẩy lên CSDL
++ Gửi tin nhắn cho khách hàng
+(speedsms)
+
+
+- Viết chương trình sửa nội dung file word.  Keyword Interop, cai dat  bang  Nuget trong C# 
