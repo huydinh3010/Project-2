@@ -1,0 +1,8 @@
+D:\OneDrive - student.hust.edu.vn\Visual Studio 2017\ReadWordFile\ReadWordFile\bin\Debug\ReadWordFile.exe.config
+D:\OneDrive - student.hust.edu.vn\Visual Studio 2017\ReadWordFile\ReadWordFile\bin\Debug\ReadWordFile.exe
+D:\OneDrive - student.hust.edu.vn\Visual Studio 2017\ReadWordFile\ReadWordFile\bin\Debug\ReadWordFile.pdb
+D:\OneDrive - student.hust.edu.vn\Visual Studio 2017\ReadWordFile\ReadWordFile\obj\Debug\ReadWordFile.csprojAssemblyReference.cache
+D:\OneDrive - student.hust.edu.vn\Visual Studio 2017\ReadWordFile\ReadWordFile\obj\Debug\ReadWordFile.csproj.CoreCompileInputs.cache
+D:\OneDrive - student.hust.edu.vn\Visual Studio 2017\ReadWordFile\ReadWordFile\obj\Debug\ReadWordFile.exe
+D:\OneDrive - student.hust.edu.vn\Visual Studio 2017\ReadWordFile\ReadWordFile\obj\Debug\ReadWordFile.pdb
+D:\OneDrive - student.hust.edu.vn\Visual Studio 2017\ReadWordFile\ReadWordFile\obj\Debug\ReadWordFile.csproj.ResolveComReference.cache
